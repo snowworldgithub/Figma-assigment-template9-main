@@ -12,7 +12,7 @@ export default function Aboutus() {
             <Image
               className="object-cover object-center w-336px h-536px mt-530px ml-300px radius-6px"
               alt="hero"
-              src= "/about1.png" width={309} height={536} 
+              src= "/about3.png" width={309} height={536} 
             />
           </div>
           {/* Right Images */}
@@ -20,14 +20,14 @@ export default function Aboutus() {
             <Image
               className="object-cover object-center w-309px h-271px mt-584px ml-660px radius-6px"
               alt="image2"
-              src="/youget.png"
+              src="/about2.png"
               width={309} height={271}
             />
             {/* Bottom Image */}
             <Image
               className="object-cover object-center w-309px h-382px mt-882px ml-660px radius-6px"
               alt="image3"
-              src="/youget2.png"
+              src="/about4.png"
               width={309} height={382}
             />
           </div>
@@ -81,7 +81,7 @@ export default function Aboutus() {
         <div className="h-full  flex justify-center items-center  flex-col border-2 rounded-lg overflow-hidden">
           <Image
         
-            src="/student.png"
+            src="/Student.png"
             width={80} height={80}
             alt="blog"
           />
@@ -98,7 +98,7 @@ export default function Aboutus() {
         <div className="h-full border-2 flex justify-center items-center  flex-col rounded-lg overflow-hidden">
           <Image
             className=""
-            src="/coffee.png"
+            src="/Coffee.png"
             width={80} height={80}
             alt="blog"
           />
